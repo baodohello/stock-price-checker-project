@@ -1,5 +1,5 @@
 {
-	"name": "boilerplate-project-stockchecker",
+	"name": "stock_price_checker",
 	"version": "0.0.1",
 	"description": "InfoSec project for freeCodeCamp",
 	"scripts": {
